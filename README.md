@@ -1,0 +1,1 @@
+An ultra-simple Flutter app for learning purposes. It utilizes **shared preferences** to persist user's selected theme (light or dark) and **provider** to manage application states. This app was developed by following [Johan Jurrius' fantastic course](https://www.youtube.com/playlist?list=PLfNDfEpg5eOOxE6arbfrloHtieJ4aSY9v).
